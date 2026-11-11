@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Spain, covering official tourism boards, high-speed rail networks, regional heritage guides, national parks, and digital nomad options.
 
+Spain is a vibrant southwestern European destination celebrated for its rich artistic heritage, diverse regional cultures, high-speed rail networks, and Mediterranean and Atlantic coastlines. This list is intended for cultural travelers, architectural explorers, culinary tourists, and remote professionals.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
